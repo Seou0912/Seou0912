@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Seou0912.Seou0912" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seou+Jung!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Seou+Jung!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from South Korea 🇰🇷</h3>
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seou0912&show_icons=true&theme=radical)
 
 <br/><br/>
