@@ -58,8 +58,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   ![snake gif](https://github.com/Seou0912/Seou0912/blob/output/github-contribution-grid-snake.svg)
-   
+   https://github.com/Seou0912/Seou0912/blob/output/github-contribution-grid-snake.svg
   <br/><br/><br/>
 </div>
 
