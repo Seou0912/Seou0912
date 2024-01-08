@@ -59,6 +59,7 @@ Here are some ideas to get you started:
   <h2>🐍 My Contributions 🐍</h2>
   <br>
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+    <a href="data:image/*;charset=utf-8;…iMy4zIiByeT0iMy4zIi8+PC9zdmc+" download="github-user-contribution.svg" style="padding: 60px 20px 20px; align-self: flex-start;">github-user-contribution.svg</a>
   <br/><br/><br/>
 </div>
 
