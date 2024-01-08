@@ -66,7 +66,6 @@ Here are some ideas to get you started:
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seou0912&show_icons=true&theme=radical)
 
 <br/><br/>
