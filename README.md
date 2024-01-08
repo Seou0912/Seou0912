@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Seou0912/Seou0912/output/github-contribution-grid-snake.svg" />
-    ![snake gif](https://github.com/Seou0912/Seou0912/blob/output/github-contribution-grid-snake.svg)
+   <img alt="snake eating my contributions" src="https://github.com/Seou0912/Seou0912/blob/output/github-contribution-grid-snake.svg" />
+   
   <br/><br/><br/>
 </div>
 
