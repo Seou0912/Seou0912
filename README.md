@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 
 <br/>
 <hr/>
+<div align="center">
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seou0912&show_icons=true&theme=radical)
+
+<br/><br/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -64,13 +72,6 @@ Here are some ideas to get you started:
 </div>
 
 <hr/>
-<div align="center">
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seou0912&show_icons=true&theme=radical)
-
-<br/><br/>
-</div>
 <hr/>
 <br/>
