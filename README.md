@@ -61,15 +61,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seou0912&show_icons=true&theme=radical)
 
 <br/><br/>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    ![Snake animation](https://github.com/Seou0912/Seou0912/blob/output/github-contribution-grid-snake.svg)
-   
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
